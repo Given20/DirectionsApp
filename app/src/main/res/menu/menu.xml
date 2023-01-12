@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/noneMap"
+        android:title="None"
+        />
+    <item
+        android:id="@+id/normalMap"
+        android:title="normal Map"
+        />
+    <item
+        android:id="@+id/SatelliteMap"
+        android:title="Satellite Map"
+        />
+    <item
+        android:id="@+id/MapHybridMap"
+        android:title="MapHybrid Map"
+        />
+    <item
+        android:id="@+id/TerrainMap"
+        android:title="Terrain Map"
+        />
+</menu>
